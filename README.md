@@ -1,1 +1,1 @@
-# C23-ARCHERY-2
+# project-c23-template
